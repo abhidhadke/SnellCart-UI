@@ -1,12 +1,13 @@
-# untitled
+# SnellCart-UI
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses a mock API which returns dummy values in JSON format which is then parsed and stored in Hive Database.
+The App then shows the values in a List format and the user can delete or edit the list as per the data.
 
-A few resources to get you started if this is your first Flutter project:
+the mock Api used for this project is https://mockapi.io/
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
